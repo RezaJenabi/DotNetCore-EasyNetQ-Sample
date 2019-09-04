@@ -1,0 +1,8 @@
+C:\Users\PC2\source\repos\EasyNetQ_DotNetCore_Sample\Message\bin\Debug\netcoreapp2.2\Message.deps.json
+C:\Users\PC2\source\repos\EasyNetQ_DotNetCore_Sample\Message\bin\Debug\netcoreapp2.2\Message.dll
+C:\Users\PC2\source\repos\EasyNetQ_DotNetCore_Sample\Message\bin\Debug\netcoreapp2.2\Message.pdb
+C:\Users\PC2\source\repos\EasyNetQ_DotNetCore_Sample\Message\obj\Debug\netcoreapp2.2\Message.csproj.CoreCompileInputs.cache
+C:\Users\PC2\source\repos\EasyNetQ_DotNetCore_Sample\Message\obj\Debug\netcoreapp2.2\Message.AssemblyInfoInputs.cache
+C:\Users\PC2\source\repos\EasyNetQ_DotNetCore_Sample\Message\obj\Debug\netcoreapp2.2\Message.AssemblyInfo.cs
+C:\Users\PC2\source\repos\EasyNetQ_DotNetCore_Sample\Message\obj\Debug\netcoreapp2.2\Message.dll
+C:\Users\PC2\source\repos\EasyNetQ_DotNetCore_Sample\Message\obj\Debug\netcoreapp2.2\Message.pdb

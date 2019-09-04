@@ -1,0 +1,14 @@
+C:\Users\PC2\source\repos\EasyNetQ_DotNetCore_Sample\Subscribe\bin\Debug\netcoreapp2.2\Subscribe.deps.json
+C:\Users\PC2\source\repos\EasyNetQ_DotNetCore_Sample\Subscribe\bin\Debug\netcoreapp2.2\Subscribe.runtimeconfig.json
+C:\Users\PC2\source\repos\EasyNetQ_DotNetCore_Sample\Subscribe\bin\Debug\netcoreapp2.2\Subscribe.runtimeconfig.dev.json
+C:\Users\PC2\source\repos\EasyNetQ_DotNetCore_Sample\Subscribe\bin\Debug\netcoreapp2.2\Subscribe.dll
+C:\Users\PC2\source\repos\EasyNetQ_DotNetCore_Sample\Subscribe\bin\Debug\netcoreapp2.2\Subscribe.pdb
+C:\Users\PC2\source\repos\EasyNetQ_DotNetCore_Sample\Subscribe\obj\Debug\netcoreapp2.2\Subscribe.csprojAssemblyReference.cache
+C:\Users\PC2\source\repos\EasyNetQ_DotNetCore_Sample\Subscribe\obj\Debug\netcoreapp2.2\Subscribe.csproj.CoreCompileInputs.cache
+C:\Users\PC2\source\repos\EasyNetQ_DotNetCore_Sample\Subscribe\obj\Debug\netcoreapp2.2\Subscribe.RazorAssemblyInfo.cache
+C:\Users\PC2\source\repos\EasyNetQ_DotNetCore_Sample\Subscribe\obj\Debug\netcoreapp2.2\Subscribe.RazorAssemblyInfo.cs
+C:\Users\PC2\source\repos\EasyNetQ_DotNetCore_Sample\Subscribe\obj\Debug\netcoreapp2.2\Subscribe.AssemblyInfoInputs.cache
+C:\Users\PC2\source\repos\EasyNetQ_DotNetCore_Sample\Subscribe\obj\Debug\netcoreapp2.2\Subscribe.AssemblyInfo.cs
+C:\Users\PC2\source\repos\EasyNetQ_DotNetCore_Sample\Subscribe\obj\Debug\netcoreapp2.2\Subscribe.RazorTargetAssemblyInfo.cache
+C:\Users\PC2\source\repos\EasyNetQ_DotNetCore_Sample\Subscribe\obj\Debug\netcoreapp2.2\Subscribe.dll
+C:\Users\PC2\source\repos\EasyNetQ_DotNetCore_Sample\Subscribe\obj\Debug\netcoreapp2.2\Subscribe.pdb
