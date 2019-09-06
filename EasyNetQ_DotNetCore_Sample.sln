@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.572
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Publisher", "Publish\Publisher.csproj", "{104E12B0-152C-4FDC-A036-7542521A03BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Producer", "Producer\Producer.csproj", "{104E12B0-152C-4FDC-A036-7542521A03BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subscriber", "Subscribe\Subscriber.csproj", "{957F4B78-7C91-41C4-A8D3-C8B3A8AA533A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Consumer", "Consumer\Consumer.csproj", "{957F4B78-7C91-41C4-A8D3-C8B3A8AA533A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messages", "Message\Messages.csproj", "{B48C8E61-9B7F-4CD8-9351-DC7184455431}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Messages", "Message\Messages.csproj", "{B48C8E61-9B7F-4CD8-9351-DC7184455431}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

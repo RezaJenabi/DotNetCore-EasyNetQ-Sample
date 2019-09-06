@@ -13,7 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Message\Messages.csproj" />
-    <ProjectReference Include="..\Subscribe\Subscriber.csproj" />
+    <ProjectReference Include="..\Subscribe\Consumer.csproj" />
   </ItemGroup>
 
 </Project>
