@@ -18,7 +18,6 @@ namespace Publisher.Controllers
         [Route("Send")]
         public JsonResult Send()
         {
-
             _bus.Publish(new TextMessage { Text = "Send Message from the Producer" });
 
             return new JsonResult("");

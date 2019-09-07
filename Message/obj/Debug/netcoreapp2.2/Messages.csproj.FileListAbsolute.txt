@@ -15,3 +15,12 @@ D:\learning\Computer\Program\Project\EasyNetQ\EasyNetQ_DotNetCore_Sample\Message
 D:\learning\Computer\Program\Project\EasyNetQ\EasyNetQ_DotNetCore_Sample\Message\obj\Debug\netcoreapp2.2\Messages.AssemblyInfo.cs
 D:\learning\Computer\Program\Project\EasyNetQ\EasyNetQ_DotNetCore_Sample\Message\obj\Debug\netcoreapp2.2\Messages.dll
 D:\learning\Computer\Program\Project\EasyNetQ\EasyNetQ_DotNetCore_Sample\Message\obj\Debug\netcoreapp2.2\Messages.pdb
+E:\Reza\MessageBroker\EasyNetQ\EasyNetQ_DotNetCore_Sample\Message\bin\Debug\netcoreapp2.2\Messages.deps.json
+E:\Reza\MessageBroker\EasyNetQ\EasyNetQ_DotNetCore_Sample\Message\bin\Debug\netcoreapp2.2\Messages.dll
+E:\Reza\MessageBroker\EasyNetQ\EasyNetQ_DotNetCore_Sample\Message\bin\Debug\netcoreapp2.2\Messages.pdb
+E:\Reza\MessageBroker\EasyNetQ\EasyNetQ_DotNetCore_Sample\Message\obj\Debug\netcoreapp2.2\Messages.csprojAssemblyReference.cache
+E:\Reza\MessageBroker\EasyNetQ\EasyNetQ_DotNetCore_Sample\Message\obj\Debug\netcoreapp2.2\Messages.csproj.CoreCompileInputs.cache
+E:\Reza\MessageBroker\EasyNetQ\EasyNetQ_DotNetCore_Sample\Message\obj\Debug\netcoreapp2.2\Messages.AssemblyInfoInputs.cache
+E:\Reza\MessageBroker\EasyNetQ\EasyNetQ_DotNetCore_Sample\Message\obj\Debug\netcoreapp2.2\Messages.AssemblyInfo.cs
+E:\Reza\MessageBroker\EasyNetQ\EasyNetQ_DotNetCore_Sample\Message\obj\Debug\netcoreapp2.2\Messages.dll
+E:\Reza\MessageBroker\EasyNetQ\EasyNetQ_DotNetCore_Sample\Message\obj\Debug\netcoreapp2.2\Messages.pdb
