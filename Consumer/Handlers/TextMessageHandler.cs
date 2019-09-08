@@ -11,7 +11,7 @@ namespace Consumer.Handlers
     {
         public void Consume(TextMessage message)
         {
-           //Code Hanldler ...
+           //Some Code ...
         }
     }
 }
